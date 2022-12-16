@@ -1,3 +1,4 @@
+//@34ZY
 //gcc -c main.c **MAKE object file**
 //gcc -shared -o main.dll main.o **MAKE DLL**
 
