@@ -1,3 +1,4 @@
+//@34ZY
 //g++ DLL-LOADER.cpp -o DLL-LOADER.exe
 
 #include <windows.h>
