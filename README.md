@@ -1,5 +1,3 @@
-@34ZY
-
 # Custom-DLL-Loader
 Compile Custom Dynamic Library (DLL) &amp; DLL Loader in C++
 
@@ -15,3 +13,5 @@ Compiling the loader :
 ```bash
 g++ DLL-LOADER.cpp -o DLL-LOADER.exe
 ```
+
+@34ZY
